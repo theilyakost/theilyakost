@@ -22,10 +22,13 @@ I use the best tool for the job. And I have strong opinions on what makes a tool
 
 **Core Stack:**
 > TypeScript, Vue JS, React, Node.js, Systems Architecture
+
 **Infrastructure & Architecture:** 
 > Docker, Kubernetes, Terraform, AWS, PostgreSQL
+
 **Applied AI & Automation:**
 > Python, Hugging Face, Building AI-powered systems
+
 **Current R&D:**
 > Rust, High-Performance Computing, Developer Experience (DX)
 
