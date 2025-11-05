@@ -63,14 +63,10 @@ My skills are best applied to deep architectural challenges, hard scaling proble
 
 If you have a genuinely hard problem and need someone who will actually solve it, let's talk.
 
+### <samp>📨 Connect</samp>
+
 <p>
-  <a href="https://t.me/lucifer_kost">
-    <img src="https://img.shields.io/badge/Telegram-007ACC?style=flat&logo=telegram&logoColor=white" alt="Telegram">
+  <a href="https://t.me/the_ilyakost">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
   </a>
 </p>
-
----
-<details>
-  <summary>View GitHub Telemetry</summary>
-  <br/>
-</details>
