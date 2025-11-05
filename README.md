@@ -61,8 +61,10 @@ My skills are best applied to deep architectural challenges, hard scaling proble
 
 If you have a genuinely hard problem and need someone who will actually solve it, let's talk.
 
-<p align="left">
-  <a href="https://t.me/the_ilyakost" target="_blank"><img src="https://img.shields.io/badge/Propose_a_Challenge-007ACC?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
+<p>
+  <a href="https://t.me/lucifer_kost">
+    <img src="https://img.shields.io/badge/Telegram-007ACC?style=flat&logo=telegram&logoColor=white" alt="Telegram">
+  </a>
 </p>
 
 ---
