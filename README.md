@@ -57,12 +57,6 @@ I use the best tool for the job. And I have strong opinions on what makes a tool
 
 ---
 
-### <samp>What I'm Looking For</samp>
-
-My skills are best applied to deep architectural challenges, hard scaling problems, or zero-to-one product engineering. I am explicitly not interested in maintaining legacy systems or building another standard CRUD application.
-
-If you have a genuinely hard problem and need someone who will actually solve it, let's talk.
-
 ### <samp>Connect</samp>
 
 <p>
