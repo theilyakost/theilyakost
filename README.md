@@ -20,14 +20,14 @@ I operate on a few straightforward principles that seem to be surprisingly uncom
 
 I use the best tool for the job. And I have strong opinions on what makes a tool "best."
 
-### Core Languages
+### <samp>Core Languages</samp>
 <p>
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
 </p>
 
-### Web & Application Ecosystem
+### <samp>Web & Application Ecosystem</samp>
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
@@ -40,13 +40,13 @@ I use the best tool for the job. And I have strong opinions on what makes a tool
   <img src="https://img.shields.io/badge/Tauri-FFC131?style=for-the-badge&logo=tauri&logoColor=black"/>
 </p>
 
-### AI & Machine Learning
+### <samp>AI & Machine Learning</samp>
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
 </p>
 
-### Infrastructure & DevOps
+### <samp>Infrastructure & DevOps</samp>
 <p>
   <img src="https://img.shields.io/badge/Docker-249ED2?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
