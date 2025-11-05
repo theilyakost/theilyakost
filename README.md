@@ -63,7 +63,7 @@ My skills are best applied to deep architectural challenges, hard scaling proble
 
 If you have a genuinely hard problem and need someone who will actually solve it, let's talk.
 
-### <samp>📨 Connect</samp>
+### <samp>Connect</samp>
 
 <p>
   <a href="https://t.me/the_ilyakost">
