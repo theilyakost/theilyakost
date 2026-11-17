@@ -1,24 +1,5 @@
 # <samp>Ilya Kost // Software Engineer & Systems Architect</samp>
 
-> I build robust, elegant systems. Mostly because I can't stand using poorly made ones.
-
----
-
-### <samp>My Approach</samp>
-
-I operate on a few straightforward principles that seem to be surprisingly uncommon.
-
-1.  **Complexity is a bug, not a feature.** My primary goal is to take inherently complex problems and build solutions that are simple, predictable, and maintainable. If a system requires a 200-page manual to be understood, it's broken.
-
-2.  **Code ships, meetings don't.** I have a strong bias for action and rapid prototyping. A tangible result, even an imperfect one, is infinitely more productive than endless debate about theoretical perfection.
-
-3.  **High standards are just good laziness.** I build things to be scalable and resilient from the start because I have zero interest in being woken up at 3 AM. It's not about idealism; it's about pragmatism.
-
----
-
-### <samp>Toolkit</samp>
-
-I use the best tool for the job. And I have strong opinions on what makes a tool "best."
 
 ### <samp>Core Languages</samp>
 <p>
